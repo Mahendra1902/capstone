@@ -7,5 +7,5 @@ langchain-google-genai
 google-generativeai
 sentence-transformers
 streamlit
-langchain
 faiss-cpu
+langchain-comunity
