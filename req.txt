@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+faiss-cpu
+langchain
+langchain-google-genai
+google-generativeai
+sentence-transformers
+streamlit
+langchain
+faiss-cpu
